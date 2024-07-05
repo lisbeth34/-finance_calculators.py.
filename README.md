@@ -14,7 +14,9 @@
 # Usage
 
 - **Clone or download the repository to your local machine.**
+- **https://github.com/lisbeth34/-finance_calculators.py..git**
 - **Navigate to the directory where the script is located.**
+  
  # Run the script using Python:**
 -**python finance_calculator.py**
 - **Follow the prompts to enter the necessary details for your calculation.**
