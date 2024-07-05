@@ -1,8 +1,5 @@
-# -finance_calculators.py.
-financial calculator
-
 Finance Calculator
-This Finance Calculator is a simple Python program designed to help you calculate the future value of your investments or the monthly payment on a home loan (bond). You can choose between investment calculations and bond calculations.
+The Finance Calculator is a simple Python program designed to help you calculate the future value of your investments or the monthly payment on a home loan (bond). You can choose between investment calculations and bond calculations. Note that the bond calculation feature is not yet implemented in the provided code.
 
 Features
 Investment Calculation: Calculate the total amount of an investment based on either simple or compound interest.
@@ -11,26 +8,22 @@ Requirements
 Python 3.x
 Usage
 Clone or download the repository to your local machine.
-
 Navigate to the directory where the script is located.
-
 Run the script using Python:
-
 bash
 Copy code
 python finance_calculator.py
 Follow the prompts to enter the necessary details for your calculation.
-
 Functionality
 1. Investment Calculation
-When prompted, choose 'investment'.
+Choose 'investment' when prompted.
 Enter the amount of money you are depositing.
 Enter the interest rate as a percentage.
 Enter the number of years you plan on investing.
 Choose between 'simple' or 'compound' interest.
 The program will display the total amount after the specified number of years.
 2. Bond Calculation
-When prompted, choose 'bond'. (Note: This feature is mentioned but not implemented in the provided code.)
+Choose 'bond' when prompted. (Note: This feature is mentioned but not implemented in the provided code.)
 Example
 plaintext
 Copy code
@@ -47,7 +40,7 @@ Enter the interest rate (as a percentage): 5
 Enter the number of years you plan on investing for: 10
 Do you want 'simple' or 'compound' interest: compound
 
-After 10 years at an interest rate of 5.0%, you will have: 16288.946267774416
+After 10 years at an interest rate of 5.0%, you will have: 16288.95
 Code Overview
 get_user_choice(): Displays the menu options and returns the user's choice.
 get_investment_details(): Prompts the user for investment details and returns them.
