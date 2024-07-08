@@ -67,5 +67,5 @@
 # Screenshot
 ![Screenshot (2)](https://github.com/lisbeth34/-finance_calculators.py./assets/131878280/7deab349-2892-47c4-8957-48b8ced5325e)
 
-![Screenshot (3)](https://github.com/lisbeth34/-finance_calculators.py./assets/131878280/b27edfc0-9b90-49b5-b359-e8cc96d622ed)
+
 
