@@ -63,3 +63,6 @@
 - **Implement the bond calculation functionality.**
 - **Add error handling for invalid inputs.**
 - **Allow for more complex investment and loan scenarios.**
+
+# Screenshot
+![Screenshot (2)](https://github.com/lisbeth34/-finance_calculators.py./assets/131878280/7deab349-2892-47c4-8957-48b8ced5325e)
