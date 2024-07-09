@@ -66,6 +66,10 @@
 
 # Screenshot
 ![Screenshot (2)](https://github.com/lisbeth34/-finance_calculators.py./assets/131878280/7deab349-2892-47c4-8957-48b8ced5325e)
+![simple respe](https://github.com/lisbeth34/-finance_calculators.py./assets/157616774/50ec8bd0-56b0-4899-8f1a-88e88e9fed2c)
+![compound](https://github.com/lisbeth34/-finance_calculators.py./assets/157616774/b08ae4cb-1f62-45c6-8d53-31a93b132204)
+![bond](https://github.com/lisbeth34/-finance_calculators.py./assets/157616774/ba9073fc-254b-4420-8581-9a568fc09cc6)
+
 
 
 
